@@ -1046,4 +1046,16 @@ color: #088178;
     width: 100%;
     margin-bottom: 30px;
   }
+  
+  /* Cart Page */
+  #cart-add{
+    flex-direction: column;
+  }
+  #coupon{
+    width: 100%;
+  }
+  #subtotal{
+    width: 100%;
+    padding: 20px;
+  }
 }
